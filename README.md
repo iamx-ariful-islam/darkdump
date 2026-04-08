@@ -72,6 +72,13 @@ Six engines are available via `-e` / `--engine`:
 
 All engines have their results checked against Ahmia's blacklist. Unfiltered engines will prompt for confirmation before executing. This strategy is still not perfect, always use extreme caution and judgement when searching and scraping unfiltered engines. 
 
+## Darkdump Web Preview (Recommended) 
+
+<p align="center">
+  <img src="https://github.com/josh0xA/darkdump/blob/main/imgs/darkdump_example.png?raw=true" alt="Darkdump example">
+</p>
+
+
 ## CLI Usage
 
 ```
@@ -145,11 +152,6 @@ Then open `http://127.0.0.1:50001` in your browser.
 - Breach intelligence scan mode
 - Export results as JSON, CSV, or TXT
 
-## Preview
-
-<p align="center">
-  <img src="https://github.com/josh0xA/darkdump/blob/main/imgs/darkdump_example.png?raw=true" alt="Darkdump example">
-</p>
 
 ## Ethical Notice
 
