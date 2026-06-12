@@ -9,7 +9,7 @@ Darkdump is an open-source OSINT tool for deep web investigation. Given a search
 ### Quick install (Linux & macOS)
 
 ```bash
-git clone https://github.com/josh0xA/darkdump
+git clone https://github.com/iamx-ariful-islam/darkdump.git
 cd darkdump
 chmod +x install.sh
 ./install.sh
@@ -27,7 +27,7 @@ This installs all dependencies and creates two commands:
 ### Manual install
 
 ```bash
-git clone https://github.com/josh0xA/darkdump
+git clone https://github.com/iamx-ariful-islam/darkdump.git
 cd darkdump
 pip3 install -r requirements.txt
 pip3 install -r darkdump-web/requirements.txt
@@ -76,7 +76,7 @@ All engines have their results checked against Ahmia's blacklist. Unfiltered eng
 ## Darkdump Web Preview (Recommended) 
 
 <p align="center">
-  <img src="https://github.com/josh0xA/darkdump/blob/main/imgs/darkdump_example.png?raw=true" alt="Darkdump example">
+  <img src="https://github.com/iamx-ariful-islam/darkdump/blob/main/imgs/darkdump_example.png?raw=true" alt="Darkdump example">
 </p>
 
 
